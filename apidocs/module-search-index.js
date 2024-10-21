@@ -1,1 +1,0 @@
-moduleSearchIndex = [{"l":"tamu.team_9p"}];updateSearchResults();
